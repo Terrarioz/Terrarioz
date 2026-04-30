@@ -1,4 +1,4 @@
-hello bonjour nihao konichiwa
+hello bonjour nihao konichiwa \n
 i am
 the strongest vibe coder of today (jokes aside i can write for loops btw)
 ik python html css js and allat and i know how to host servers
