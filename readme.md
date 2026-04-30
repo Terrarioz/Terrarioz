@@ -22,7 +22,11 @@
 ## status
 ```
 [█░░░░] manually coding(1%)
+
+
 [██████████████░░] asking claude for help (89%)
+
+
 [██████████████████]  Vibe coding(99.99%)
 ```
 
