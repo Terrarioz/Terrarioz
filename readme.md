@@ -13,7 +13,7 @@
 
 ### i am
 - 💻 **the strongest vibe coder of today** (jokes aside i can write for loops btw)
-- 🔥 `yes i know python` `html` `css` `js` and allat 
+- 🔥 `yes i know python html css js and allat 
 - 🤓 yes i host servers  
 - 🎮 yea i do joke and funny games but i do develop serious projects (im serious)
 
