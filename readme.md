@@ -37,9 +37,8 @@
 
 claude is my goat btw
 
-
 ---
 
 > yes im unserious about serious things and serious about unserious things
->
+> why do i vibe code while i know how to code manually? well, im lazy and its just faster and better ngl
 > — me, probably
