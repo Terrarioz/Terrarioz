@@ -35,16 +35,11 @@
 
 ## status
 ```
-[█░░░░] manually coding(1%)
+[█░░░░] manually coding(10%)
 
 
-[██████████████░░] asking claude for help (89%)
+[███████░░] asking claude for help (67%)
 
 
-[██████████████████]  Vibe coding(99.99%)
+[██████████████████]  Vibe coding(90%)
 ```
-
-claude is my goat btw
-
-> yes im unserious about serious things and serious about unserious things
-> im lazy and vibe coding is just faster and better ngl
